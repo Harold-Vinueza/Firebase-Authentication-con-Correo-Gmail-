@@ -1,0 +1,92 @@
+{
+  "project_info": {
+    "project_number": "260080923356",
+    "project_id": "authenticationconcorreo",
+    "storage_bucket": "authenticationconcorreo.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260080923356:android:43fd67e157f00fb1f77a19",
+        "android_client_info": {
+          "package_name": "com.example.autgmail"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260080923356-k7vgk71n0c5rbegdsahnp7bja1thsq58.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.autgmail",
+            "certificate_hash": "73bf5729cbbb7bb6c78f5821a1c14e49c2b483bb"
+          }
+        },
+        {
+          "client_id": "260080923356-quh26jf3gva2trgc0e14bg8jskr3895q.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.autgmail",
+            "certificate_hash": "99e73810d724019a6e25d683fbb6949566312a57"
+          }
+        },
+        {
+          "client_id": "260080923356-uhr551gj31ogafpsmi2v3pqs6qg6k8m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3JdSGGkVSPVZDpfrWckG6MraofmHxIY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260080923356-uhr551gj31ogafpsmi2v3pqs6qg6k8m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260080923356:android:a443bcf7da1cacd2f77a19",
+        "android_client_info": {
+          "package_name": "com.example.gmailautentivcation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260080923356-kqnrd8bqor6ckk4rg8udqekh4bnqcibd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gmailautentivcation",
+            "certificate_hash": "99e73810d724019a6e25d683fbb6949566312a57"
+          }
+        },
+        {
+          "client_id": "260080923356-uhr551gj31ogafpsmi2v3pqs6qg6k8m5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD3JdSGGkVSPVZDpfrWckG6MraofmHxIY8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260080923356-uhr551gj31ogafpsmi2v3pqs6qg6k8m5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
